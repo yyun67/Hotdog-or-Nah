@@ -1,9 +1,11 @@
 # Hotdog-or-Nah
 
 Google Colab Link - https://colab.research.google.com/drive/1KpRyPqUWGXYEzjrWbdRFOfHhVPys_ID8?usp=sharing
+
 Temporary Gradio link - https://f00aaeb2755cdf4bbd.gradio.live/
 
 An end-to-end binary image classification pipeline and interactive interface that determines whether an uploaded image contains a hotdog or not, trained on a public Kaggle dataset.
+
 Dataset: https://www.kaggle.com/datasets/dansbecker/hot-dog-not-hot-dog
 
 Implemented the following core features:
